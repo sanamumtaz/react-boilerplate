@@ -19,7 +19,7 @@
     "scripts": {
         "start": "webpack serve --mode development",
         "build": "webpack --mode production",
-        "test": "jest --forceExit",
+        "test": "jest --forceExit /src/__tests__",
         "eject": "react-scripts eject",
         "lint": "eslint --rule \"@typescript-eslint/no-unused-vars: warn\" --fix \"./src/**/*.{js,jsx,ts,tsx,json}\"",
         "format": "prettier --write \"./src/**/*.{js,jsx,ts,tsx,json,css,scss,md}\"",
