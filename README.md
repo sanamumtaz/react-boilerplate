@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/35191030/137798473-05c72ca7-8a48-4377-afea-df7ec9ed7845.png)
+
 # React TypeScript Webpack Babel Setup Template
 
 This is a template/boilerplate that can be used to build **React** webapps in **TypeScript** with **Webpack** as module loader. It was initialized using create-react-app typescript template. The template contains support for following loaders and modules:
