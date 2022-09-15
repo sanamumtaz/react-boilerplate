@@ -2,7 +2,7 @@
 
 # React TypeScript Webpack Babel Setup Template
 
-This is a template/boilerplate that can be used to build **React** webapps in **TypeScript** with **Webpack** as module loader. It was initialized using create-react-app typescript template. The template contains support for following loaders and modules:
+This is a template/boilerplate that can be used to build **React** webapps written in **TypeScript** with **Webpack** as module loader. This boilerplate contains support for following loaders and modules:
 
 -   [Babel](https://babeljs.io/)
 -   `css-loader` and `style-loader`
